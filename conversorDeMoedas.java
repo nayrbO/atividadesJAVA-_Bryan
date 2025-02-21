@@ -2,7 +2,7 @@ package ExerciciosJava;
 
 import java.util.Scanner;
 
-public class conversorDeMoedas {
+public class ConversordeMoedas {
 
 public static void main(String[] args) {
 

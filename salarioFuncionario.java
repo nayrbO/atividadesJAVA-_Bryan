@@ -2,7 +2,7 @@ package ExerciciosJava;
 
 import java.util.Scanner;
 
-public class salarioFuncionario {
+public class SalarioFuncionario {
 
 public static void main(String [] args) {
     Scanner teclado = new Scanner (System.in);
